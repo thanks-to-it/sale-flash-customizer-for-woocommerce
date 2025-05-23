@@ -2,7 +2,7 @@
 /*
 Plugin Name: Sale Flash Customizer for WooCommerce
 Plugin URI: https://wordpress.org/plugins/sale-flash-customizer-for-woocommerce/
-Description: Customize WooCommerce products sale flash.
+Description: Customize the WooCommerce product sale flash.
 Version: 2.0.0
 Author: Algoritmika Ltd
 Author URI: https://profiles.wordpress.org/algoritmika/
