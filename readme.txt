@@ -21,37 +21,37 @@ This plugin gives you the flexibility to display detailed sale information direc
 
 To personalize the sale flash, adjust the plugin options to display the preferred details, you can choose to highlight the amount saved or represent it as a percentage, offering a clearer picture of the deal to your customers.
 
-### Change Default Sale Flash Messages ###
+### 🚀 Change Default Sale Flash Messages ###
 
 Transform your global sales flash with this feature by replacing the default 'Sale!' text with detailed discount messages.
 
 For instance, set a store-wide message like "20% Off This Week!" or "Save on Your Favorites!" to capture customer attention and convey specific sale details more effectively.
 
-### Customize Sales Messages on Product, Category, and Tag ###
+### 🚀 Customize Sales Messages on Product, Category, and Tag ###
 
 Customize sales messages at a more granular level for individual products, specific categories, or tags.
 
 This allows for tailored messaging, such as "Special Offer on Electronics!" for a category or "Limited Time Discount!" for a particular product line, which can enhance the relevance of sales promotions.
 
-### Control Sales Flash Messages Visibility ###
+### 🚀 Control Sales Flash Messages Visibility ###
 
 Display or conceal sales messages across your store, including specific sections like product archives or single product pages.
 
 Giving you a flexibility to showcase sales messages where they're most effective and aligning with your theme.
 
-### Enhanced Sales Message Using Shortcodes ###
+### 🚀 Enhanced Sales Message Using Shortcodes ###
 
 Leverage a variety of shortcodes to dynamically display sale information. For example, use `[alg_wc_sfc_discount_percent]` to show the percentage discount, or `[alg_wc_sfc_sale_price]` to display the sale price next to products.
 
 These shortcodes offer a way to convey precise and compelling sales information directly to customers.
 
-### WPML and Polylang Compatibility ###
+### 🚀 WPML and Polylang Compatibility ###
 
 Ensure your sales messages are accessible to a global audience with WPML and Polylang compatibility.
 
 Use the `[alg_wc_sfc_translate]` shortcode to translate your sales messages, catering to a diverse customer base in their preferred languages.
 
-### &#9989; Main Features ###
+### ✅ Main Features ###
 
 * set sale flash **globally**,
 * set sale flash **per product**,
@@ -64,7 +64,7 @@ Use the `[alg_wc_sfc_translate]` shortcode to translate your sales messages, cat
 * **WPML and Polylang** compatible (with the `[alg_wc_sfc_translate]` shortcode).
 * **"High-Performance Order Storage (HPOS)"** compatible.
 
-### &#128472; Feedback ###
+### 🗘 Feedback ###
 
 * We are open to your suggestions and feedback. Thank you for using or trying out one of our plugins!
 * Head to the plugin [GitHub Repository](https://github.com/thanks-to-it/sale-flash-customizer-for-woocommerce) to find out how you can pitch in.
