@@ -1,0 +1,191 @@
+# Copyright (C) 2025 Algoritmika Ltd
+# This file is distributed under the GNU General Public License v3.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: Sale Flash Customizer for WooCommerce 2.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/sale-flash-customizer-for-woocommerce\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-05-23T11:08:47+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: sale-flash-customizer-for-woocommerce\n"
+
+#. Plugin Name of the plugin
+#: sale-flash-customizer-for-woocommerce.php
+msgid "Sale Flash Customizer for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: sale-flash-customizer-for-woocommerce.php
+msgid "https://wordpress.org/plugins/sale-flash-customizer-for-woocommerce/"
+msgstr ""
+
+#. Description of the plugin
+#: sale-flash-customizer-for-woocommerce.php
+msgid "Customize WooCommerce products sale flash."
+msgstr ""
+
+#. Author of the plugin
+#: sale-flash-customizer-for-woocommerce.php
+msgid "Algoritmika Ltd"
+msgstr ""
+
+#. Author URI of the plugin
+#: sale-flash-customizer-for-woocommerce.php
+msgid "https://profiles.wordpress.org/algoritmika/"
+msgstr ""
+
+#: includes/class-alg-wc-sale-flash-customizer-core.php:157
+#: includes/settings/class-alg-wc-sale-flash-customizer-settings-general.php:99
+#: includes/settings/class-alg-wc-sale-flash-customizer-settings-general.php:204
+#: includes/settings/class-alg-wc-sale-flash-customizer-settings-per-product.php:74
+msgid "Sale!"
+msgstr ""
+
+#: includes/class-alg-wc-sale-flash-customizer.php:180
+msgid "Settings"
+msgstr ""
+
+#: includes/settings/class-alg-wc-sale-flash-customizer-settings-general.php:25
+msgid "General"
+msgstr ""
+
+#: includes/settings/class-alg-wc-sale-flash-customizer-settings-general.php:84
+msgid "All Products"
+msgstr ""
+
+#: includes/settings/class-alg-wc-sale-flash-customizer-settings-general.php:89
+msgid "All products"
+msgstr ""
+
+#: includes/settings/class-alg-wc-sale-flash-customizer-settings-general.php:90
+#: includes/settings/class-alg-wc-sale-flash-customizer-settings-general.php:138
+#: includes/settings/class-alg-wc-sale-flash-customizer-settings-general.php:173
+msgid "Enable section"
+msgstr ""
+
+#: includes/settings/class-alg-wc-sale-flash-customizer-settings-general.php:96
+msgid "Sale flash"
+msgstr ""
+
+#: includes/settings/class-alg-wc-sale-flash-customizer-settings-general.php:97
+#: includes/settings/class-alg-wc-sale-flash-customizer-settings-general.php:201
+msgid "You can use HTML and/or shortcodes here."
+msgstr ""
+
+#: includes/settings/class-alg-wc-sale-flash-customizer-settings-general.php:104
+msgid "Hide everywhere"
+msgstr ""
+
+#: includes/settings/class-alg-wc-sale-flash-customizer-settings-general.php:105
+#: includes/settings/class-alg-wc-sale-flash-customizer-settings-general.php:112
+#: includes/settings/class-alg-wc-sale-flash-customizer-settings-general.php:119
+msgid "Hide"
+msgstr ""
+
+#: includes/settings/class-alg-wc-sale-flash-customizer-settings-general.php:111
+msgid "Hide on archives (categories) only"
+msgstr ""
+
+#: includes/settings/class-alg-wc-sale-flash-customizer-settings-general.php:118
+msgid "Hide on single page only"
+msgstr ""
+
+#: includes/settings/class-alg-wc-sale-flash-customizer-settings-general.php:132
+msgid "Per Product"
+msgstr ""
+
+#: includes/settings/class-alg-wc-sale-flash-customizer-settings-general.php:137
+msgid "Per product"
+msgstr ""
+
+#: includes/settings/class-alg-wc-sale-flash-customizer-settings-general.php:139
+msgid "This will add meta box to each product's edit page."
+msgstr ""
+
+#: includes/settings/class-alg-wc-sale-flash-customizer-settings-general.php:160
+msgid "Per Category"
+msgstr ""
+
+#: includes/settings/class-alg-wc-sale-flash-customizer-settings-general.php:161
+msgid "Per Tag"
+msgstr ""
+
+#: includes/settings/class-alg-wc-sale-flash-customizer-settings-general.php:169
+msgid "Per category"
+msgstr ""
+
+#: includes/settings/class-alg-wc-sale-flash-customizer-settings-general.php:170
+msgid "Per tag"
+msgstr ""
+
+#: includes/settings/class-alg-wc-sale-flash-customizer-settings-general.php:182
+msgid "Categories"
+msgstr ""
+
+#: includes/settings/class-alg-wc-sale-flash-customizer-settings-general.php:183
+msgid "Tags"
+msgstr ""
+
+#: includes/settings/class-alg-wc-sale-flash-customizer-settings-general.php:185
+msgid "Save changes after updating this option - new settings fields will appear."
+msgstr ""
+
+#: includes/settings/class-alg-wc-sale-flash-customizer-settings-general.php:200
+msgid "N/A"
+msgstr ""
+
+#: includes/settings/class-alg-wc-sale-flash-customizer-settings-per-product.php:61
+msgid "Enable"
+msgstr ""
+
+#: includes/settings/class-alg-wc-sale-flash-customizer-settings-per-product.php:66
+msgid "Yes"
+msgstr ""
+
+#: includes/settings/class-alg-wc-sale-flash-customizer-settings-per-product.php:67
+msgid "No"
+msgstr ""
+
+#: includes/settings/class-alg-wc-sale-flash-customizer-settings-per-product.php:71
+msgid "HTML"
+msgstr ""
+
+#: includes/settings/class-alg-wc-sale-flash-customizer-settings-per-product.php:103
+msgid "Invalid nonce."
+msgstr ""
+
+#: includes/settings/class-alg-wc-sale-flash-customizer-settings-per-product.php:138
+#: includes/settings/class-alg-wc-settings-sale-flash-customizer.php:26
+msgid "Sale Flash Customizer"
+msgstr ""
+
+#. Translators: %s: Option value.
+#: includes/settings/class-alg-wc-sale-flash-customizer-settings-per-product.php:259
+msgid "Selected: %s."
+msgstr ""
+
+#: includes/settings/class-alg-wc-settings-sale-flash-customizer.php:47
+msgid "Reset Settings"
+msgstr ""
+
+#: includes/settings/class-alg-wc-settings-sale-flash-customizer.php:52
+msgid "Reset section settings"
+msgstr ""
+
+#: includes/settings/class-alg-wc-settings-sale-flash-customizer.php:53
+msgid "Reset"
+msgstr ""
+
+#: includes/settings/class-alg-wc-settings-sale-flash-customizer.php:54
+msgid "Check the box and save changes to reset."
+msgstr ""
+
+#: includes/settings/class-alg-wc-settings-sale-flash-customizer.php:84
+#: includes/settings/class-alg-wc-settings-sale-flash-customizer.php:100
+msgid "Your settings have been reset."
+msgstr ""
