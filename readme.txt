@@ -1,5 +1,5 @@
 === Sale Flash Customizer for WooCommerce ===
-Contributors: algoritmika, anbinder, karzin
+Contributors: algoritmika, thankstoit, anbinder, karzin
 Tags: woocommerce, sale, flash, sale flash, woo commerce
 Requires at least: 4.4
 Tested up to: 6.8
